@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Week 2 Task</string>
+    <string name="title_acvtivity_life_cycle">Acvtivity Life Cycle</string>
+    <string name="title_fragments_stack">Fragment Stack</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="oncreate">onCreate</string>
+    <string name="ondestroy">onDestroy</string>
+    <string name="onstart">onStart</string>
+    <string name="onresume">onResume</string>
+    <string name="onpause">onPause</string>
+    <string name="onstop">onStop</string>
+    <string name="onrestart">onRestart</string>
+    <string name="config_change">Orientation : %s</string>
+    <string name="activity_state">Activity State : %s</string>
+
+    <string name="add_fragment">add</string>
+    <string name="remove_fragment">Remove</string>
+    <string name="fragmentCount">Fragment Count : %d</string>
+    <string name="text_on_fragment">Fragment Position : %1$d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_task_1">Activity Life Cycle</string>
+    <string name="btn_task_2">Fragment Stack</string>
+
+</resources>
